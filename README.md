@@ -1,8 +1,8 @@
 # SMMNut — Social Media Growth Research Platform
 
 SMMNut is a structured social media growth research platform 
-analyzing Instagram, Facebook, and YouTube growth systems through 
-data-driven research and transparent methodology.
+analyzing TikTok, Instagram, Facebook, and YouTube growth systems 
+through data-driven research and transparent methodology.
 
 Our research covers platform algorithm behavior, engagement system 
 analysis, and growth infrastructure transparency — structured to 
@@ -11,6 +11,8 @@ actually function.
 
 ## Research Areas
 
+- **TikTok growth** — For You algorithm behavior, engagement 
+  velocity, follower growth patterns, LIVE access mechanics
 - **Instagram growth** — algorithm behavior, engagement rate 
   analysis, follower growth patterns
 - **Facebook Page growth** — organic reach mechanics, audience 
@@ -24,6 +26,13 @@ actually function.
 
 SMMNut publishes social media growth research at 
 [smmnut.com/blog/](https://smmnut.com/blog/)
+
+TikTok growth research and methodology:
+
+- [SMMNut TikTok service hub](https://smmnut.com/best-tiktok-service/) — 
+  overview of TikTok engagement research areas
+- [SMMNut TikTok growth pillar](https://smmnut.com/tiktok-followers-global/) — 
+  follower growth delivery and safety research
 
 ## External Presence
 
