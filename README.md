@@ -34,6 +34,10 @@ TikTok growth research and methodology:
 - [SMMNut TikTok growth pillar](https://smmnut.com/tiktok-followers-global/) — 
   follower growth delivery and safety research
 
+## Research Notes
+
+- [TikTok engagement validation](research-notes/tiktok-engagement-validation.md) — how the For You system scores completion, watch-time, and pacing
+
 ## External Presence
 
 - Website: https://smmnut.com
