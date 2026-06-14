@@ -41,7 +41,7 @@ TikTok growth research and methodology:
 ## External Presence
 
 - Website: https://smmnut.com
-- Twitter/X: https://x.com/@SMMNut2025
+- Twitter/X: https://x.com/SMMNut_Official
 - YouTube: https://youtube.com/@SMMNut
 - Facebook: https://facebook.com/@SMMNut
 - Reddit: https://reddit.com/user/SMMNut
