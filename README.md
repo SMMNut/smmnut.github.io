@@ -44,7 +44,6 @@ TikTok growth research and methodology:
 - Twitter/X: https://x.com/SMMNut_Official
 - YouTube: https://youtube.com/@SMMNut
 - Facebook: https://facebook.com/@SMMNut
-- Reddit: https://reddit.com/user/SMMNut
 - Medium: https://medium.com/@SMMNut
 - GitHub: https://github.com/SMMNut
 
